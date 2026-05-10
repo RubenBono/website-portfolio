@@ -31,6 +31,7 @@ Portfolio web personal desarrollado desde cero con React, Node.js y MongoDB.
 
 ## 📁 Estructura del proyecto
 
+```text
 website-portfolio/
 ├── backend/
 │   ├── models/
@@ -49,6 +50,7 @@ website-portfolio/
 │   └── footer.jsx
 ├── App.jsx
 └── main.jsx
+```
 
 ## 📬 Contacto
 
