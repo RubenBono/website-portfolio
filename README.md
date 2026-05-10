@@ -54,4 +54,4 @@ website-portfolio/
 
 ## 📬 Contacto
 
-- **LinkedIn:** [Rubén Bono](www.linkedin.com/in/ruben-bono-carrillo)
+- **LinkedIn:** [Rubén Bono](https://www.linkedin.com/in/ruben-bono-carrillo)
