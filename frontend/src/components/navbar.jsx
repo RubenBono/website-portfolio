@@ -13,7 +13,7 @@ export default function Navbar() {
   return (
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <div className="navbar-inner">
-        <div className="logo">Rubén Bono.dev</div>
+        <div className="logo">Rubén Bono</div>
         <div className="nav-links">
           <a href="#projects">Proyectos</a>
           <a href="#contact">Contacto</a>
